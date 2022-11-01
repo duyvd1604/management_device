@@ -7,7 +7,7 @@ gem "devise"
 
 gem 'rails-i18n'
 gem 'devise-i18n'
-
+gem "enum_help"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.4"
 
