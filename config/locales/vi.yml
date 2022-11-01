@@ -1,0 +1,9 @@
+vi:
+  activerecord:
+    models:
+      equipment: Thiết bị
+    attributes:
+      equipment:
+        type: Loại thiết bị
+      operation_history:
+        content: Lịch sử hoạt động

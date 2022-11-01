@@ -1,0 +1,15 @@
+vi:
+  enums:
+    equipment:
+      type:
+        pc: "PC"
+        note_pc: "Note PC"
+        tera: "Tera"
+        camera: "Camera"
+        experiment: "Thiết bị thí nghiệm"
+        others: "Khác"
+    operation_history:
+      content:
+        add_data: "Thêm"
+        edit_dât: "Sửa"
+        delete_data: "Xóa"
